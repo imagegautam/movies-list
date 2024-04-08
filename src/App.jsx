@@ -23,7 +23,7 @@ function App() {
     <div className="container text-warning">
       <div className="row">
         <div className="col">
-          <h1 className="mt-5 text-center">My movie Collections!</h1>
+          <h1 className="mt-5 text-center">My Movie Collections!</h1>
         </div>
       </div>
       <hr />
